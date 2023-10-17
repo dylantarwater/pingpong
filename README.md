@@ -1,3 +1,4 @@
+# test
 
 # The dot includes hidden files that start with a dot, like .gitignore
 git add .
@@ -9,8 +10,8 @@ git commit -m "Initial commit"
 git push
 
 # configure username and email
-git config --global user.email "email@email.com"
-git config --global user.name "Test"
+git config --global user.email "brantwillis@amdg.rockhursths.edu"
+git config --global user.name "BrantWillis"
 
 # Pull before you make any changes
 git pull
