@@ -8,3 +8,5 @@ Over/Under how many times Patrick Mahomes is called the best quarterback in the 
 I have no Idea what I just did
 
 What's this about TSwift w/out mention of Kelce?
+
+Kelce VS. Aaron Rodgers boxing match over vax March 2024
