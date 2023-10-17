@@ -10,5 +10,7 @@ git commit -m "Initial commit"
 git push
 
 # configure username and email
-git config --global user.email "joehudak4@gmail.com"
-git config --global user.name "JWHudak"
+git config --global user.email "email@email.com"
+git config --global user.name "Test"
+
+ping, you're up, Brant
