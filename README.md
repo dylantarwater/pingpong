@@ -6,3 +6,5 @@ Over/Under how many times Taylor Swift is shown on camera: 250 times
 Over/Under how many times Patrick Mahomes is called the best quarterback in the league: 10 times
 
 I have no Idea what I just did
+
+What's this about TSwift w/out mention of Kelce?
