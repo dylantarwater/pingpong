@@ -13,4 +13,7 @@ git push
 git config --global user.email "email@email.com"
 git config --global user.name "Test"
 
+# Pull before you make any changes
+git pull
+
 ping, you're up, Brant
