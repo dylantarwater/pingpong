@@ -1,5 +1,9 @@
 # pingpong
 
+# configure username and email
+git config --global user.email "brantwillis@amdg.rockhursths.edu"
+git config --global user.name "Brant Willis"
+
 # the dot includes hidden files that start with a dot, like .gitignore
 git add .
 
