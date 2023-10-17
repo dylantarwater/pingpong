@@ -16,4 +16,4 @@ git config --global user.name "BrantWillis"
 # Pull before you make any changes
 git pull
 
-ping, you're up, Brant
+hello brant
