@@ -43,5 +43,11 @@ uno mas por favor
 beans
 burrito bowl
 brant
+<<<<<<< HEAD
 
 Mine is right
+=======
+confliction
+conflict 2
+conflict 3
+>>>>>>> 391a4efc10ce551
