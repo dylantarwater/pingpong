@@ -48,5 +48,14 @@ confliction
 broken merge
 =======
 conflict 2
+<<<<<<< HEAD
 brant
 greasy
+=======
+<<<<<<< HEAD
+pull
+=======
+brant
+>>>>>>> 9540b2b9e52dab65f0fb4c5b905c86e57f7f654b
+ok
+>>>>>>> 6b9fea5cadb3d94f8f98cf3c52f1d89daac26872
