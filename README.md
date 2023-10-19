@@ -48,4 +48,9 @@ confliction
 broken merge
 =======
 conflict 2
+<<<<<<< HEAD
 pull
+=======
+brant
+>>>>>>> 9540b2b9e52dab65f0fb4c5b905c86e57f7f654b
+ok
