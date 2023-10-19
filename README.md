@@ -48,6 +48,13 @@ brant
 Mine is right
 =======
 confliction
+<<<<<<< HEAD
 conflict 2
 conflict 3
 >>>>>>> 391a4efc10ce551
+=======
+<<<<<<< HEAD
+broken merge
+=======
+conflict 2
+>>>>>>> 44aa8e564f454aaafac943ff902718f679fee06f
