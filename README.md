@@ -44,4 +44,8 @@ beans
 burrito bowl
 brant
 confliction
+<<<<<<< HEAD
 broken merge
+=======
+conflict 2
+>>>>>>> 88a1b4ad409921f02e81e071d524fd9e686823af
