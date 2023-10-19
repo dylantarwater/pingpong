@@ -1,4 +1,15 @@
 # Betting Lines for next Chiefs game
+
+git pull
+
+git add .
+
+git commit -m "whatever"
+
+git push
+
+
+
 Over/Under how many times Taylor Swift is mentioned: 30 times
 
 Over/Under how many times Taylor Swift is shown on camera: 250 times
